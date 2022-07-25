@@ -25,16 +25,17 @@ export default function Home({ allPostsData }) {
           Hello, my Name is <b>Thomas</b>.
           I'm an IT Consultant especially for Microsoft 365 
           and the Microsoft Power Platform.
-          My mein goal is to automate as much as possible
+          My main goal is to automate as much as possible
           for our Customers, so they can focus an their core
           businesses.
         </p>
         <p>
-          You can contact me on{' '}
-          <a href="https://twitter.com/thomaspoth" target="_blank">Twitter</a>.</p>
-        <p>
           I publish here at irregular intervals (hopefully)
           interesting things from my everyday work.
+        </p>
+        <p>
+          You can contact me on{' '}
+          <a href="https://twitter.com/thomaspoth" target="_blank">Twitter</a>.
         </p>
       </section>
 
