@@ -22,13 +22,20 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I'm <b>Thomas</b>.
-          I'm a Consultant for Microsoft 365 
+          Hello, my Name is <b>Thomas</b>.
+          I'm an IT Consultant especially for Microsoft 365 
           and the Microsoft Power Platform.
-          You can contact me on <a href="https://twitter.com/thomaspoth" target="_blank">Twitter</a>.</p>
+          My main goal is to automate as much as possible
+          for our Customers, so they can focus an their core
+          businesses.
+        </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          I publish here at irregular intervals (hopefully)
+          interesting things from my everyday work.
+        </p>
+        <p>
+          You can contact me on{' '}
+          <a href="https://twitter.com/thomaspoth" target="_blank">Twitter</a>.
         </p>
       </section>
 
